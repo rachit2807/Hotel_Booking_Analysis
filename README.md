@@ -1,4 +1,4 @@
-# Hotel_Booking_Analysis
+# Hotel Booking Analysis
 
 The Hotel Booking Analysis Project is aimed at performing Exploratory Data Analysis (EDA) and data cleaning on hotel reservation data. It provides analysis and visualizations on metrics such as cancellation percentage and reservation status for different types of hotels, including city hotels and resorts.
 
